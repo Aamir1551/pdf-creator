@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aamir1551/pdf-creator/issues"
   },
-  "homepage": "https://github.com/Aamir1551/pdf-creator#readme"
+  "homepage": "https://github.com/Aamir1551/pdf-creator#readme",
+  "dependencies": {
+    "jspdf": "^1.5.3"
+  }
 }
